@@ -6,5 +6,5 @@ Given an array/list [] of integers. Construct a product array of same size such 
 
 Notes
 - Array/list size is at least 2 .
-- Array/list's numbers Will be only Positives
+- Array/list's numbers will be only positives
 - Repetition of numbers in the array/list could occur.
